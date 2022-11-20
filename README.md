@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught passionate in the BackEnd Engineer
+I'm a self-taught passionate in Back End Engineer
 - 🔭 I’m currently a final year student
 - 🌱 I’m currently learning all about backend
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/widdyarfian/)
